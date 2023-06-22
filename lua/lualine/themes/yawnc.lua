@@ -1,4 +1,4 @@
-local p = require('pywal.palette')
+local p = require('yawnc.palette')
 
 return {
     normal = {

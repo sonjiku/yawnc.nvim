@@ -1,7 +1,7 @@
 local config = require("pywal.config")
-local Wal16 = {}
+local Yawnc = {}
 
-function Wal16.colorscheme()
+function Yawnc.colorscheme()
 
 	vim.opt.termguicolors = true
 	if vim.g.colors_name then
@@ -10,11 +10,11 @@ function Wal16.colorscheme()
 	end
 	vim.g.colors_name = "yawnc"
 
-	require("wal16.theme")._load(config.options)
+	require("yawnc.theme")._load(config.options)
 end
 
-function Wal16.setup(options)
+function Yawnc.setup(options)
 	config.extend(options)
 end
 
-return Wal16
+return Yawnc
