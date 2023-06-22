@@ -4,7 +4,7 @@ I was inspired by the lacklusterness of all other neovim colorschemes based on
 pywal that I found online, so I made this.
 
 Yawnc's code is based on the [rose-pine](https://github.com/rose-pine/neovim) nVim
-colorscheme, which means that all the plugins that are supported by rose-pine,
+colorscheme, which means that ~~all~~ *most of* the plugins that are supported by rose-pine,
 are supported by this theme as well.
 
 This is intended to be used with my pywal fork that takes advantage of my
