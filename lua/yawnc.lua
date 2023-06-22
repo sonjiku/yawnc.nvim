@@ -8,7 +8,7 @@ function Wal16.colorscheme()
 		vim.cmd('hi clear')
 		vim.cmd('syntax reset')
 	end
-	vim.g.colors_name = "wal16"
+	vim.g.colors_name = "yawnc"
 
 	require("wal16.theme")._load(config.options)
 end
