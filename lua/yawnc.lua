@@ -1,4 +1,4 @@
-local config = require("pywal.config")
+local config = require("yawnc.config")
 local Yawnc = {}
 
 function Yawnc.colorscheme()
