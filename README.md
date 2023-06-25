@@ -28,13 +28,12 @@ iconema backend, but it can also be used with
 
 
 ## External Plugin Support
-
 Check rose-pine's github page till I update this.
 
 ## Installation
 
 ### lazy
-Add this to one of your plugin spec files.
+Add `sonjiku/yawnc.nvim` to one of your plugin spec files.
 ```lua
 not bothered enough to actually write this, sorry
 ```
@@ -49,8 +48,7 @@ use { "sonjiku/yawnc.nvim" }
 Plug "sonjiku/yawnc.nvim"
 ```
 
-## Active theme
-
+## Activate theme
 Put this somewhere in your neovim config
 ```vim
 vim.cmd.colorscheme("yawnc")
