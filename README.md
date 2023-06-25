@@ -25,7 +25,6 @@ iconema backend, but it can also be used with
 ![screenshot5](screenshots/screenshot5.png)
 ![screenshot6](screenshots/screenshot6.png)
 ![screenshot7](screenshots/screenshot7.png)
-![screenshot8](screenshots/screenshot8.png)
 
 
 ## External Plugin Support
