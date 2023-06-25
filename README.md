@@ -58,9 +58,17 @@ vim.cmd.colorscheme("yawnc")
 
 
 ## How it works
-
 Magic
 
 ## Enjoy
-
 Or not
+
+## TODO
+- [ ] Add function that adjusts base01-07 to be *grays* based on base00.
+- [ ] Add 2 extra colors for base08-base0F as for now, we only have 6 colors and one gray and white.
+- [ ] Ensure plugin works well with original pywal.
+- [ ] Add some documentation in order to help potential fork maintainers.
+- [x] Feed cat.
+- [x] Go for groceries
+- [x] DFTBA
+- [ ] Call therapist
